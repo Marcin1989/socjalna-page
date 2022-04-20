@@ -1,0 +1,16 @@
+.popup-inner {
+    border: 1px solid black;
+    height: 300px;
+    width: 350px;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: blue;
+}
+
+
+
